@@ -10,15 +10,18 @@ A curated collection of specialized skills and workflows designed to enhance Cla
 ## 🛠️ Included Skills
 
 ### 🐦 Viral Tweet Generator
+
 How to write viral tweets using proven frameworks and psychological triggers.
+
 - **Goal**: Transform ideas into high-engagement content on X (Twitter).
 - **Core Frameworks**: Contrarian Takes, Listicles, Personal Stories, Data-driven Insights.
-- **Output**: Optimized tweets + deep analysis of *why* they work.
+- **Output**: Optimized tweets + deep analysis of _why_ they work.
 - **Location**: [.claude/skills/viral-tweet-generator/SKILL.md](.claude/skills/viral-tweet-generator/SKILL.md)
 
 ## 🚀 Getting Started
 
 To use these skills with Claude:
+
 1. Copy the contents of the desired `SKILL.md` file.
 2. Provide it to Claude as context for your session or import it into your custom agent configuration.
 3. Follow the input formats described in the skill documentation.
@@ -26,9 +29,7 @@ To use these skills with Claude:
 ## 📈 Roadmap
 
 - [x] Viral Tweet Generator
-- [ ] SEO Master Content Architect (Coming Soon)
-- [ ] Technical Documentation Specialist (Coming Soon)
-- [ ] AI Automation Workflow Designer (Coming Soon)
 
 ---
-*Created and maintained by [learn-with-santosh](https://github.com/learn-with-santosh)*
+
+_Created and maintained by [learn-with-santosh](https://github.com/learn-with-santosh)_
