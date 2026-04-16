@@ -1,0 +1,40 @@
+{
+  "skill_name": "viral-tweet-generator",
+  "evals": [
+    {
+      "id": 1,
+      "name": "transform-raw-idea",
+      "prompt": "I want to tweet about how most developers waste time optimizing code that doesn't matter. Can you make this into a viral tweet?",
+      "expected_output": "A tweet using contrarian or educational framework that challenges premature optimization, with analysis explaining the hook type, structure, and psychological triggers used",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "improve-draft-tweet",
+      "prompt": "Here's my tweet draft: 'Starting a business is hard. You need to work hard and not give up and talk to customers. Also build good products.' Make this viral.",
+      "expected_output": "An improved version using personal story or listicle framework with specific details, numbers, or concrete advice. Should include analysis of what was changed and why it works better",
+      "files": []
+    },
+    {
+      "id": 3,
+      "name": "generate-from-topic",
+      "prompt": "Write a viral tweet about AI agents replacing jobs. I want to take a balanced take that's not too hype-y or too doom-y.",
+      "expected_output": "A tweet that uses contrarian or data-driven framework to stand out from typical AI hype, with analysis explaining how it avoids cliches while still being engaging",
+      "files": []
+    },
+    {
+      "id": 4,
+      "name": "thread-format",
+      "prompt": "I have a lot to say about why SaaS pricing is broken. Can you help me write this as a tweet thread? Main points: 1) free trials should not require credit card, 2) pricing pages hide real prices, 3) enterprise pricing is just a negotiation game",
+      "expected_output": "A multi-tweet thread with a strong hook tweet that stands alone, supporting tweets for each point, and a summary/CTA at the end. Each tweet should be skimmable and add value independently",
+      "files": []
+    },
+    {
+      "id": 5,
+      "name": "analyze-existing-viral",
+      "prompt": "This tweet got 10M views: 'I don't need a job. I need a reason to live.' Analyze why it went viral and then write me 3 similar-style tweets about work-life balance for software engineers.",
+      "expected_output": "Analysis of the original tweet's psychological triggers and structure, then 3 original tweets using similar frameworks adapted to the work-life balance topic for engineers",
+      "files": []
+    }
+  ]
+}
